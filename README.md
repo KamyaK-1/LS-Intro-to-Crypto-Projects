@@ -1,5 +1,5 @@
-# LS-Intro-to-Crypto-Projects
-Contains the files for the projects given in LS-2024-Intro-to-Crypto under CSEC IITB.
+# Intro-to-Crypto-Projects
+Contains the files for the projects and file "Basics.pdf" which contains the theory I studies for this self project.
 
 ## Hill Cipher
 
