@@ -1,5 +1,5 @@
 # Intro-to-Crypto-Projects
-Contains the files for the projects and file "Basics.pdf" which contains the theory I studies for this self project.
+Contains the files for the projects and file **"Basics.pdf"** which contains the theory I studies for this self project.
 
 ## Hill Cipher
 
